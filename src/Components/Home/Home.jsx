@@ -44,11 +44,7 @@ const Home = () => {
       title: "Verified Tutors",
       text: "We ensure all tutors are verified professionals to provide high-quality education.",
     },
-    {
-      icon: <IoMicCircle className="text-4xl text-[#15892e]" />,
-      title: "HD Voice Quality",
-      text: "On Calling, you will get HD quality voice because of RTC Feature",
-    },
+   
     {
       icon: <FaChalkboardUser className="text-4xl text-[#15892e]" />,
       title: "Variety Teaching Methods",
